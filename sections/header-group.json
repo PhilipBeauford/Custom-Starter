@@ -1,0 +1,52 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "theme_announcement": {
+      "type": "theme__announcement",
+      "blocks": {
+        "f2232503-8685-46db-aaf1-b796c5ea14f9": {
+          "type": "text",
+          "settings": {
+            "content": "<p>Make announcements or share a promotion.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f2232503-8685-46db-aaf1-b796c5ea14f9"
+      ],
+      "settings": {
+        "color_scheme": "color__bg-secondary color__secondary",
+        "layout_alignment": "center",
+        "visibility": "",
+        "show_account_link": false
+      }
+    },
+    "theme_header": {
+      "type": "theme__header",
+      "settings": {
+        "dropdown_links": "main-menu",
+        "search_links": "",
+        "logo_desktop_height": 45,
+        "logo_mobile_height": 16,
+        "bar_color_scheme": "color__bg-body color__text",
+        "bar_color_border": "color__border-divider-1",
+        "bar_layout_desktop": "left-inline",
+        "bar_button_cart_type": "icon",
+        "bar_button_search_type": "icon",
+        "bar_button_login_type": "none",
+        "bar_button_menu_type": "icon",
+        "enable_search": true,
+        "dropdown_color_scheme": "color__bg-body color__text",
+        "dropdown_color_border": "color__border-divider-1",
+        "search_color_scheme": "color__bg-body color__text",
+        "search_color_border": "color__border-divider-1",
+        "visibility": ""
+      }
+    }
+  },
+  "order": [
+    "theme_announcement",
+    "theme_header"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "85942a7d-a700-4a34-9b4d-8e0a35c6feb7": {
+      "type": "banner",
+      "settings": {
+        "image_background_desktop": "shopify:\/\/shop_images\/home-desktop.jpg",
+        "show_entire_image": false,
+        "enable_lazy_loading": false,
+        "show_video_background_mobile": true,
+        "color_scheme": "color__bg-overlay-1 color__text",
+        "color_text": "",
+        "color_border": "color__border-divider-1",
+        "enable_gradient": false,
+        "style_border": "",
+        "layout_y_spacing": "min-h-[450px] md:min-h-[550px]",
+        "layout_y_alignment": "items-end",
+        "layout_x_alignment": "justify-start",
+        "visibility": ""
+      }
+    },
+    "094c4df8-8525-42e9-8423-2d9dfeadb5fe": {
+      "type": "navigation-slider",
+      "blocks": {
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "url": ""
+          }
+        },
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "url": ""
+          }
+        },
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-2": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "url": ""
+          }
+        },
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-3": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "url": ""
+          }
+        },
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-4": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-0",
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-1",
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-2",
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-3",
+        "template--15165043900621__094c4df8-8525-42e9-8423-2d9dfeadb5fe-16728122790871e769-4"
+      ],
+      "settings": {
+        "spacing_top": 5,
+        "spacing_bottom": 5,
+        "color_scheme": "color__bg-body color__text",
+        "color_border": "color__border-divider-1",
+        "style_border": "",
+        "visibility": "md:hidden"
+      }
+    },
+    "f9d306ad-d6fb-414e-a285-c48b56ed5bd7": {
+      "type": "product-grid",
+      "blocks": {
+        "template--15854515880074__f9d306ad-d6fb-414e-a285-c48b56ed5bd7-1680619390c6e649a3-0": {
+          "type": "card",
+          "settings": {
+            "heading": "Block heading",
+            "content": "<p>Describe a product, make announcements, or inform customers about a promotion.<\/p>",
+            "button_label": "Button",
+            "button_url": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15854515880074__f9d306ad-d6fb-414e-a285-c48b56ed5bd7-1680619390c6e649a3-0"
+      ],
+      "settings": {
+        "collection": "classics",
+        "products_count": 7,
+        "heading": "Product grid",
+        "content": "<p>Describe a product, make announcements, or welcome customers to your store.<\/p>",
+        "button_label": "Button",
+        "button_url": "\/collections\/all",
+        "spacing_top": 100,
+        "spacing_bottom": 100,
+        "color_scheme": "color__bg-body color__text",
+        "color_border": "color__border-divider-1",
+        "color_button": "btn btn--secondary",
+        "style_border": "border--b-width",
+        "row_size_desktop": "md:grid-cols-4",
+        "row_size_mobile": "grid grid-cols-2",
+        "layout_x_alignment": "justify-between",
+        "visibility": ""
+      }
+    }
+  },
+  "order": [
+    "85942a7d-a700-4a34-9b4d-8e0a35c6feb7",
+    "094c4df8-8525-42e9-8423-2d9dfeadb5fe",
+    "f9d306ad-d6fb-414e-a285-c48b56ed5bd7"
+  ]
+}
