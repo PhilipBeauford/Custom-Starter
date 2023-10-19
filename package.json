@@ -1,5 +1,5 @@
 {
-  "name": "Custom-Starter",
+  "name": "custom-starter",
   "scripts": {
     "dev": "npm-run-all --parallel vite_dev shopify_dev",
     "pull": "shopify theme pull --nodelete --store $npm_package_config_store",
@@ -11,9 +11,9 @@
     "format": "prettier -w ."
   },
   "author": {
-    "name": "Brickspace Lab",
-    "email": "hello@brickspacelab.com",
-    "url": "https://www.brickspacelab.com"
+    "name": "",
+    "email": "",
+    "url": ""
   },
   "license": "MIT",
   "devDependencies": {
