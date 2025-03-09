@@ -1,6 +1,7 @@
 [environments.dev]
 store = "functions-checkout.myshopify.com"
-ignore = ["frontend/","package.json","package-lock.json"]
+ignore = ["snippets/assets.liquid","package.json","package-lock.json"]
+password = "shptka_317f1064a9b44c1cd9916839e2a8b28f"
 
 [environments.prod]
 store = "jennikayne-staging.jennikayne.myshopify.com"
